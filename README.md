@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou Daniel Guerra, tenho 17 anos, e sou um estudante de programação.
 - 📫 Atualmente curso Análise e Desenvolvimento de Sistemas pela Fatec!
-- 👀 Me interesso em Desenvolvimento Java!
-- 🌱 Estou aprendendo Java e Spring!
+- 👀 Me interesso em Desenvolvimento C#, ASP.NET!
+- 🌱 Estou aprendendo C#, ASP.NET, MVC etc!
 - 📫 E-mail: danielespindolaguerr@hotmail.com
 
 <!---
