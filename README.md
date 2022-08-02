@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou Daniel Guerra, tenho 17 anos, e sou um estudante de programação.
+- 👋 Olá, eu sou Daniel Guerra, tenho 18 anos, e sou um estudante de programação.
 - 📫 Atualmente curso Análise e Desenvolvimento de Sistemas pela Fatec!
 - 👀 Me interesso em Desenvolvimento C#, ASP.NET!
 - 🌱 Estou aprendendo C#, ASP.NET, MVC etc!
