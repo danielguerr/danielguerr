@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou Daniel Guerra, tenho 18 anos, e sou um estudante de programação.
+- 👋 Olá, eu sou Daniel Guerra, tenho 19 anos, atuo como programador Full Stack C#.
 - 📫 Atualmente curso Análise e Desenvolvimento de Sistemas pela Unicesumar!
 - 👀 Me interesso em Desenvolvimento C#, ASP.NET!
 - 🌱 Estou aprendendo C#, ASP.NET, MVC etc!
