@@ -1,8 +1,12 @@
-- 👋 Olá, eu sou Daniel Guerra, tenho 19 anos, atuo como programador Full Stack C#.
-- 📫 Atualmente curso Análise e Desenvolvimento de Sistemas pela Unicesumar!
-- 👀 Me interesso em Desenvolvimento C#, ASP.NET!
-- 🌱 Estou aprendendo C#, ASP.NET, MVC etc!
-- 📫 E-mail: danielespindolaguerr@hotmail.com
+Desenvolvedor .NET Full Stack. Atuo principalmente com C#, ASP.NET MVC, APIs REST, JavaScript e jQuery.
+
+🚀 Tecnologias que uso:
+C#, ASP.NET MVC
+JavaScript, jQuery, AJAX
+SQL Server
+Git
+Integrações com APIs 
+Bootstrap e HTML/CSS
 
 <!---
 danielguerr/danielguerr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
